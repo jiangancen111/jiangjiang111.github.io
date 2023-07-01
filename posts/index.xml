@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 21:21:22 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinkings</title>
+      <link>/posts/thinkings/</link>
+      <pubDate>Sat, 01 Jul 2023 21:21:22 +0800</pubDate>
+      
+      <guid>/posts/thinkings/</guid>
+      <description>
+        
+          
+            在配置中遇到的问题和解决方案：使用了在创建博客时使用了错误位置的命令指示器，调整后完成了博客创建 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
